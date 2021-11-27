@@ -32,6 +32,18 @@ type FontInfo struct {
 	size     float32
 }
 
+func (f *FontInfo) Name() string {
+	return f.fontName
+}
+
+func (f *FontInfo) Path() string {
+	return f.fontPath
+}
+
+func (f *FontInfo) Size() float32 {
+	return f.size
+}
+
 func (f *FontInfo) String() string {
 	return fmt.Sprintf("%s:%.2f", f.fontName, f.size)
 }
