@@ -201,3 +201,7 @@ func fatal(widgetName, method, message string, args ...interface{}) {
 
 	log.Panicf("giu: %s.%s: %s", widgetName, method, fmt.Sprintf(message, args...))
 }
+
+func DefaultFonts() []FontInfo {
+	return defaultFonts
+}
