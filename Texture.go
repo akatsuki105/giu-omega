@@ -56,3 +56,7 @@ func (t *Texture) release() {
 		Context.renderer.ReleaseImage(t.id)
 	})
 }
+
+func (t *Texture) ID() imgui.TextureID {
+	return t.id
+}
