@@ -8,7 +8,7 @@ require (
 	github.com/go-gl/gl v0.0.0-20210905235341-f7a045908259 // indirect
 	github.com/go-gl/glfw/v3.3/glfw v0.0.0-20210727001814-0db043d8d5be
 	github.com/go-resty/resty/v2 v2.6.0
-	github.com/pokemium/imgui-go-omega v0.0.0-20211024092510-8e5cdfd51300
+	github.com/pokemium/imgui-go-omega v0.0.0-20220207000129-200bc77eedfa
 	github.com/sahilm/fuzzy v0.1.0
 	github.com/stretchr/testify v1.7.0
 	golang.org/x/image v0.0.0-20210628002857-a66eb6448b8d
