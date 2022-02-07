@@ -25,6 +25,10 @@ func GetCanvas() *Canvas {
 	}
 }
 
+func (c *Canvas) DrawList() imgui.DrawList {
+	return c.drawlist
+}
+
 // AddLine draws a line (from p1 to p2).
 func (c *Canvas) AddLine(p1, p2 image.Point, col color.Color, thickness float32) {
 	c.drawlist.AddLine(ToVec2(p1), ToVec2(p2), ToVec4Color(col), thickness)
