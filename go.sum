@@ -19,6 +19,8 @@ github.com/pokemium/imgui-go-omega v0.0.0-20211024092510-8e5cdfd51300 h1:F2IM2sJ
 github.com/pokemium/imgui-go-omega v0.0.0-20211024092510-8e5cdfd51300/go.mod h1:mTN7GZSgk8JLTkFCdlVhbuLB0tsWDRuXiSkxIM7K1dM=
 github.com/pokemium/imgui-go-omega v0.0.0-20220207000129-200bc77eedfa h1:oAsGJ6VKTlSRYe7PdYd9cOEzxtOZf0fHJQhAXZB9ofY=
 github.com/pokemium/imgui-go-omega v0.0.0-20220207000129-200bc77eedfa/go.mod h1:mTN7GZSgk8JLTkFCdlVhbuLB0tsWDRuXiSkxIM7K1dM=
+github.com/pokemium/imgui-go-omega v0.0.0-20220207002512-ee120e0daff6 h1:78JepL5uqJZ4OiFde9NfCr1SWJF2qGPVPsjuJQBW3zo=
+github.com/pokemium/imgui-go-omega v0.0.0-20220207002512-ee120e0daff6/go.mod h1:mTN7GZSgk8JLTkFCdlVhbuLB0tsWDRuXiSkxIM7K1dM=
 github.com/sahilm/fuzzy v0.1.0 h1:FzWGaw2Opqyu+794ZQ9SYifWv2EIXpwP4q8dY1kDAwI=
 github.com/sahilm/fuzzy v0.1.0/go.mod h1:VFvziUEIMCrT6A6tw2RFIXPXXmzXbOsSHF0DOI8ZK9Y=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
