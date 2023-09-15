@@ -8,7 +8,7 @@ import (
 	"sync"
 
 	"github.com/AllenDang/go-findfont"
-	"github.com/pokemium/imgui-go-omega"
+	"github.com/akatsuki105/imgui-go-omega"
 )
 
 var (

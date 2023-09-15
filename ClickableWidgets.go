@@ -5,7 +5,7 @@ import (
 	"image"
 	"image/color"
 
-	"github.com/pokemium/imgui-go-omega"
+	"github.com/akatsuki105/imgui-go-omega"
 	"golang.org/x/image/colornames"
 )
 

@@ -8,8 +8,8 @@ import (
 	"image/color"
 	"time"
 
+	"github.com/akatsuki105/imgui-go-omega"
 	resty "github.com/go-resty/resty/v2"
-	"github.com/pokemium/imgui-go-omega"
 )
 
 var _ Widget = &ImageWidget{}

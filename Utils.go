@@ -10,7 +10,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/pokemium/imgui-go-omega"
+	"github.com/akatsuki105/imgui-go-omega"
 )
 
 // LoadImage loads image from file and returns *image.RGBA.

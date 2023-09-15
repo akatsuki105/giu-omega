@@ -3,7 +3,7 @@ package giu
 import (
 	"image"
 
-	"github.com/pokemium/imgui-go-omega"
+	"github.com/akatsuki105/imgui-go-omega"
 )
 
 // PlotWidget is implemented by all the particular plots, which can be used

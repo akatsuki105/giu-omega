@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"image"
 
-	"github.com/pokemium/imgui-go-omega"
+	"github.com/akatsuki105/imgui-go-omega"
 )
 
 type AlignmentType byte
@@ -109,13 +109,13 @@ func (a *AlignmentSetter) Build() {
 // here is a list of known bugs:
 // - BUG: clicking bug - when widget is clickable, it is unable to be
 // clicked see:
-//   - https://github.com/pokemium/giu-omega/issues/341
+//   - https://github.com/akatsuki105/giu-omega/issues/341
 //   - https://github.com/ocornut/imgui/issues/4588
-// - BUG: text pasted into input text is pasted twice
-//   (see: https://github.com/pokemium/giu-omega/issues/340)
+//   - BUG: text pasted into input text is pasted twice
+//     (see: https://github.com/akatsuki105/giu-omega/issues/340)
 //
 // if you find anything else, please report it on
-// https://github.com/pokemium/giu-omega Any contribution is appreciated!
+// https://github.com/akatsuki105/giu-omega Any contribution is appreciated!
 func GetWidgetWidth(w Widget) (result float32) {
 	// save cursor position before rendering
 	currentPos := GetCursorPos()

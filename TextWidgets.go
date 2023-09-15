@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/pokemium/imgui-go-omega"
+	"github.com/akatsuki105/imgui-go-omega"
 	"github.com/sahilm/fuzzy"
 )
 

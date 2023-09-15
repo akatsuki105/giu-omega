@@ -5,7 +5,7 @@ import (
 	"math"
 	"time"
 
-	"github.com/pokemium/imgui-go-omega"
+	"github.com/akatsuki105/imgui-go-omega"
 )
 
 var _ Disposable = &progressIndicatorState{}

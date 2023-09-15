@@ -3,7 +3,7 @@ package giu
 import (
 	"sync"
 
-	"github.com/pokemium/imgui-go-omega"
+	"github.com/akatsuki105/imgui-go-omega"
 )
 
 // Context represents a giu context.

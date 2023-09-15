@@ -3,7 +3,7 @@ package giu
 import (
 	"image/color"
 
-	"github.com/pokemium/imgui-go-omega"
+	"github.com/akatsuki105/imgui-go-omega"
 )
 
 var _ Widget = &TableRowWidget{}

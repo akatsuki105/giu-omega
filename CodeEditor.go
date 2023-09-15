@@ -3,7 +3,7 @@ package giu
 import (
 	"fmt"
 
-	"github.com/pokemium/imgui-go-omega"
+	"github.com/akatsuki105/imgui-go-omega"
 )
 
 // LanguageDefinition represents code editor's language definition.

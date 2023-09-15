@@ -1,10 +1,11 @@
 github.com/AllenDang/go-findfont v0.0.0-20200702051237-9f180485aeb8 h1:dKZMqib/yUDoCFigmz2agG8geZ/e3iRq304/KJXqKyw=
 github.com/AllenDang/go-findfont v0.0.0-20200702051237-9f180485aeb8/go.mod h1:b4uuDd0s6KRIPa84cEEchdQ9ICh7K0OryZHbSzMca9k=
+github.com/akatsuki105/imgui-go-omega v0.0.0-20230915014544-f8623db09ddc h1:586l7n668FIpw9qVSHNVH2hDH5ySvy+XF8S2A0pT0ro=
+github.com/akatsuki105/imgui-go-omega v0.0.0-20230915014544-f8623db09ddc/go.mod h1:w7N+UKBkgMuOFu8bmujY+iYsN6wjSmbeaJdG97UIkZ4=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/faiface/mainthread v0.0.0-20171120011319-8b78f0a41ae3 h1:baVdMKlASEHrj19iqjARrPbaRisD7EuZEVJj6ZMLl1Q=
 github.com/faiface/mainthread v0.0.0-20171120011319-8b78f0a41ae3/go.mod h1:VEPNJUlxl5KdWjDvz6Q1l+rJlxF2i6xqDeGuGAxa87M=
-github.com/go-gl/gl v0.0.0-20210315015930-ae072cafe09d/go.mod h1:482civXOzJJCPzJ4ZOX/pwvXBWSnzD4OKMdH4ClKGbk=
 github.com/go-gl/gl v0.0.0-20210905235341-f7a045908259 h1:8q7+xl2D2qHPLTII1t4vSMNP2VKwDcn+Avf2WXvdB1A=
 github.com/go-gl/gl v0.0.0-20210905235341-f7a045908259/go.mod h1:wjpnOv6ONl2SuJSxqCPVaPZibGFdSci9HFocT9qtVYM=
 github.com/go-gl/glfw/v3.3/glfw v0.0.0-20210727001814-0db043d8d5be h1:vEIVIuBApEBQTEJt19GfhoU+zFSV+sNTa9E9FdnRYfk=
@@ -15,14 +16,6 @@ github.com/kylelemons/godebug v1.1.0 h1:RPNrshWIDI6G2gRW9EHilWtl7Z6Sb1BR0xunSBf0
 github.com/kylelemons/godebug v1.1.0/go.mod h1:9/0rRGxNHcop5bhtWyNeEfOS8JIWk580+fNqagV/RAw=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
-github.com/pokemium/imgui-go-omega v0.0.0-20211024092510-8e5cdfd51300 h1:F2IM2sJXXIVfT0dROuSRqp+WNGuHPEbptiK1W4oadlU=
-github.com/pokemium/imgui-go-omega v0.0.0-20211024092510-8e5cdfd51300/go.mod h1:mTN7GZSgk8JLTkFCdlVhbuLB0tsWDRuXiSkxIM7K1dM=
-github.com/pokemium/imgui-go-omega v0.0.0-20220207000129-200bc77eedfa h1:oAsGJ6VKTlSRYe7PdYd9cOEzxtOZf0fHJQhAXZB9ofY=
-github.com/pokemium/imgui-go-omega v0.0.0-20220207000129-200bc77eedfa/go.mod h1:mTN7GZSgk8JLTkFCdlVhbuLB0tsWDRuXiSkxIM7K1dM=
-github.com/pokemium/imgui-go-omega v0.0.0-20220207002512-ee120e0daff6 h1:78JepL5uqJZ4OiFde9NfCr1SWJF2qGPVPsjuJQBW3zo=
-github.com/pokemium/imgui-go-omega v0.0.0-20220207002512-ee120e0daff6/go.mod h1:mTN7GZSgk8JLTkFCdlVhbuLB0tsWDRuXiSkxIM7K1dM=
-github.com/pokemium/imgui-go-omega v0.0.0-20220207003549-a8cfbc968532 h1:6N0mnTzkS6XxX0i9OlRFhuBuV9ScOTaiOnzRM5IY8ak=
-github.com/pokemium/imgui-go-omega v0.0.0-20220207003549-a8cfbc968532/go.mod h1:mTN7GZSgk8JLTkFCdlVhbuLB0tsWDRuXiSkxIM7K1dM=
 github.com/sahilm/fuzzy v0.1.0 h1:FzWGaw2Opqyu+794ZQ9SYifWv2EIXpwP4q8dY1kDAwI=
 github.com/sahilm/fuzzy v0.1.0/go.mod h1:VFvziUEIMCrT6A6tw2RFIXPXXmzXbOsSHF0DOI8ZK9Y=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=

@@ -1,6 +1,6 @@
 package giu
 
-import "github.com/pokemium/imgui-go-omega"
+import "github.com/akatsuki105/imgui-go-omega"
 
 type MouseButton int
 

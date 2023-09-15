@@ -5,8 +5,8 @@ import (
 	"image"
 	"runtime"
 
+	"github.com/akatsuki105/imgui-go-omega"
 	"github.com/faiface/mainthread"
-	"github.com/pokemium/imgui-go-omega"
 )
 
 type Texture struct {

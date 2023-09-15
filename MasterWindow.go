@@ -6,9 +6,9 @@ import (
 	"runtime"
 	"time"
 
+	"github.com/akatsuki105/imgui-go-omega"
 	"github.com/faiface/mainthread"
 	"github.com/go-gl/glfw/v3.3/glfw"
-	"github.com/pokemium/imgui-go-omega"
 )
 
 // MasterWindowFlags wrapps imgui.GLFWWindowFlags.
